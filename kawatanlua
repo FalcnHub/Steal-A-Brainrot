@@ -1,4 +1,3 @@
-
 --// AUTO SAVE SYSTEM
 local HttpService = game:GetService("HttpService")
 local CONFIG_FILE = "kawatan_config.json"
